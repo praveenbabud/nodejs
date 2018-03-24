@@ -10,6 +10,7 @@
   "author": "Praveen Babu Devabhaktuni",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "http": "0.0.0"
   }
 }
